@@ -1,3 +1,3 @@
-classe profile:app {
+classe profile::app {
 
 }
